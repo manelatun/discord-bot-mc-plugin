@@ -1,0 +1,6 @@
+main: com.github.manelatun.DiscordBotPlugin.Plugin
+author: manelatun
+version: '1.0'
+api-version: '1.13'
+name: 'DiscordBot'
+description: 'A Paper/Spigot plugin that hosts a Discord bot directly on a Minecraft server.'

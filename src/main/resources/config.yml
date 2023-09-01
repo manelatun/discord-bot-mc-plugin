@@ -1,0 +1,20 @@
+DISCORD_TOKEN: null
+DISCORD_SERVER_ID: null
+
+# ==== Status card ====
+# Creates an auto-updating message that shows info about the server status.
+
+# Whether the feature is enabled.
+STATUS_CARD_ENABLED: false
+# The channel in which to show the status card.
+STATUS_CARD_CHANNEL_ID: null
+# The server address to show on the card.
+MINECRAFT_SERVER_ADDRESS: null
+
+# ==== Minecraft-Discord Bridge Channel ====
+# Turns a Discord channel into a chat between Minecraft players and Discord users.
+
+# Whether the feature is enabled.
+BRIDGE_ENABLED: false
+# The channel that will act as the bridge.
+BRIDGE_CHANNEL_ID: null
